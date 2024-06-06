@@ -63,8 +63,10 @@ dmypy.json
 # Plot images
 *.png
 
-# Miscellaneous
+# Log files
 *.log
+
+# Miscellaneous
 *.swp
 
 # Ignore the .idea folder for JetBrains IDEs
