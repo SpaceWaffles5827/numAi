@@ -80,3 +80,5 @@ dmypy.json
 # Ignore macOS specific files
 .DS_Store
 
+# Ignore BFG Repo-Cleaner
+bfg.jar
